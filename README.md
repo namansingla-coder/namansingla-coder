@@ -1,70 +1,38 @@
-Hi there, I’m Naman Singla! 👋
+# Hi there! 👋 I'm Naman 🚀
 
-🚀 About Me
+### 💻 Software Developer | AI & ML Enthusiast | Backend & Frontend Specialist
 
-🔹 B.Tech Student | Software Developer | AI & Blockchain Enthusiast
-🔹 Passionate about Full Stack Development, AI, and Blockchain Technology
-🔹 Love building innovative solutions through code 💻
-🔹 Open to collaborations and learning opportunities 🚀
+🔹 Passionate about **AI, Machine Learning, and Full-Stack Development**  
+🔹 Experienced in **React, Redux, Tailwind CSS, AdonisJS, TensorFlow, PyTorch**  
+🔹 Building **innovative projects** that make an impact 🚀  
 
-📚 Education
+---
 
-🎓 B.Tech in Computer Science & Engineering
-Bennett University (2022 - 2026)
-📌 CGPA: 9.14
+## 🏆 My Key Projects:
 
-💼 Work Experience
+- **NutriGuide AI** 🍏 – A chatbot for personalized nutrition using AI.
+- **Product Classification & Expiry Detection** 📦 – AI-powered product recognition.
+- **Farm Disease Detection** 🌾 – Identifies crop & poultry diseases using ML.
+- **EazyCart** 🛒 – A sleek e-commerce platform with React & Tailwind CSS.
 
-🏢 Software Engineer Intern - CodeYogi (Jan 2025 - Feb 2025)
+---
 
-✅ Developed Bitcoin & Ethereum transactions using Blockchain technology
-✅ Built scalable backend with AdonisJS, RESTful APIs, and optimized performance
-✅ Gained hands-on experience in backend development, smart contracts, and API integration
+## ⚡ Tech Stack:
 
-🏢 Frontend Developer - Devslane (Jun 2024 - Sep 2025)
+🔹 **Languages**: JavaScript, TypeScript, Python, Solidity  
+🔹 **Frontend**: React, Redux, Next.js, Tailwind CSS  
+🔹 **Backend**: Node.js, AdonisJS, Flask  
+🔹 **ML & AI**: TensorFlow, PyTorch, OpenAI API  
+🔹 **Blockchain**: Ethereum, Bitcoin, Smart Contracts  
 
-✅ Worked with React, Redux, and Tailwind CSS to create interactive web applications
-✅ Built & optimized user-friendly UI components
-✅ Hands-on experience with frontend development & component-based architecture
+---
 
-🔥 Projects
+## 🚀 Let's Connect!
 
-🌱 Farm Diseases Detection (Mar 2025 - Present)
+🌐 **Portfolio**: https://namansingla-blog.netlify.app  
+💼 **LinkedIn**: www.linkedin.com/in/namansingla7642  
+📂 **GitHub**: github.com/namansingla-coder  
+📩 **Email**: namansingla@myyahoo.com  
 
-🖼️ AI-powered web app for Potato & Poultry disease detection using deep learning
-🔹 Frontend: React | Backend: Flask
-🔹 AI Models: TensorFlow (Potato) & PyTorch (Poultry)
-🔹 Live Demo: Farm Disease Detection
+📌 *Always open to collaborations & exciting opportunities!* 🚀
 
-🛒 EazyCart (Jun 2024 - Oct 2024)
-
-🛍️ A responsive e-commerce platform with seamless UI/UX
-🔹 Tech Stack: React, Tailwind CSS, JavaScript
-🔹 🚀 Optimized UI & state management, achieving 30% faster load time
-🔹 GitHub Repo: EazyCart
-
-🛠️ Tech Stack
-
-🔹 Frontend: React, Redux, Tailwind CSS, JavaScript
-🔹 Backend: AdonisJS, Node.js, Flask, REST API
-🔹 Programming: C++, Java, Python
-🔹 Databases: MySQL, PostgreSQL
-🔹 AI/ML: TensorFlow, PyTorch
-🔹 Other: Blockchain, Smart Contracts
-
-🏆 Achievements & Certifications
-
-🏅 Industry Hackathon - Bennett University (Jan 2024)
-💡 Developed NutriGuide AI, a health chatbot, during an industry hackathon
-
-📜 The Bits and Bytes of Computer Networking - Coursera (Mar 2024)
-📜 Fundamentals of Network Communication - Coursera (Mar 2024)
-
-📫 Connect with Me
-
-🌐 Portfolio: namansingla-blog.netlify.app
-💼 LinkedIn: linkedin.com/in/namansingla7642
-💻 GitHub: github.com/namansingla-coder
-📩 Email: namansingla@myyahoo.com
-
-⚡ Let’s build something amazing together! 🚀
