@@ -31,7 +31,7 @@
 
 🌐 **Portfolio**: https://namansingla-blog.netlify.app  
 💼 **LinkedIn**: www.linkedin.com/in/namansingla7642  
-📂 **GitHub**: github.com/namansingla-coder  
+📂 **GitHub**: https://github.com/namansingla-coder  
 📩 **Email**: namansingla@myyahoo.com  
 
 📌 *Always open to collaborations & exciting opportunities!* 🚀
